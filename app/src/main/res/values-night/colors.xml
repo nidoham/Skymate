@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_nav_background">@color/seed</color>
+    <color name="md_theme_background">@color/md_theme_dark_background</color>
+    
+
+
+    <color name="contrastColor">#FFFFFF</color>
+    <color name="defaultIconTint">#FFFFFF</color>
+</resources>
